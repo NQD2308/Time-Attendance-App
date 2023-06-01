@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Smart Gate</string>
+
+    <string name="tab_1">Add</string>
+    <string name="tab_2">Update</string>
+    <string name="tab_3">Lock</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_aboutus">About us</string>
+    <string name="nav_settting">Setting</string>
+    <string name="nav_account">Account</string>
+    <string name="nav_changeAccount">Change password</string>
+    <string name="nav_logout">Logout</string>
+    <string name="nav_version">Version: 1.4.2</string>
+
+    <string name="wel_login">Login</string>
+    <string name="wel_signup">SignUp</string>
+
+    <string name="login_user">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_remember_me">Remember me</string>
+    <string name="login_forget_password">Forget Your Password?</string>
+    <string name="login_login">Login</string>
+
+    <string name="signup_user">Username</string>
+    <string name="signup_emai">Email</string>
+    <string name="signup_password">Password</string>
+    <string name="signup_confirm_password">Confirm password</string>
+    <string name="signup_signup">SignUp</string>
+
+    <string name="aboutus_title">About us</string>
+
+    <string name="setting_title">Setting</string>
+
+    <string name="changepassword_title">Change password</string>
+
+    <string name="navication_drawer_open">Open navication drawer</string>
+    <string name="navication_drawer_close">close navication drawer</string>
+
+    <string name="english">English</string>
+    <string name="languge">Languge</string>
+    <string name="vietnamese">Vietnamese</string>
+    <string name="id_card">ID card</string>
+    <string name="password_card">Password card</string>
+    <string name="local">Local:</string>
+    <string name="search">Search</string>
+    <string name="form">Form</string>
+    <string name="add">Add</string>
+    <string name="ID_list">List ID</string>
+    <string name="Donthaveanaccount">Don\'t have an account?</string>
+    <string name="Create">Create</string>
+    <string name="Signin">Sign In</string>
+    <string name="Backto">Back to</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="Confirmpassword">Confirm password</string>
+    <string name="New_password">New password</string>
+    <string name="change_pasword">Change Pasword</string>
+    <string name="user_name">User name</string>
+    <string name="id">ID</string>
+    <string name="name">Name:</string>
+    <string name="id1">ID:</string>
+    <string name="HistoryGate">History Gate</string>
+    <string name="mathe">MÃ THẺ</string>
+    <string name="id_card_form">ID CARD</string>
+</resources>

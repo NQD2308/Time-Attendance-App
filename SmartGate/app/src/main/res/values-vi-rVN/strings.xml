@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Gate</string>
+
+    <string name="tab_1">Thêm</string>
+    <string name="tab_2">Chỉnh sửa</string>
+    <string name="tab_3">Khóa</string>
+
+    <string name="nav_home">Trang chủ</string>
+    <string name="nav_aboutus">Giới thiệu</string>
+    <string name="nav_settting">Cài đặt</string>
+    <string name="nav_account">Tài khoản</string>
+    <string name="nav_changeAccount">Đổi mật khẩu</string>
+    <string name="nav_logout">Đăng xuất</string>
+    <string name="nav_version">Phiên bản: 1.4.2</string>
+
+    <string name="wel_login">Đăng nhập</string>
+    <string name="wel_signup">Đăng ký</string>
+
+    <string name="login_user">Tên người dùng</string>
+    <string name="login_password">Mật khẩu</string>
+    <string name="login_remember_me">Ghi nhớ mật khẩu</string>
+    <string name="login_forget_password">Quên mật khẩu?</string>
+    <string name="login_login">Đăng nhập</string>
+
+    <string name="signup_user">Tên người dùng</string>
+    <string name="signup_emai">Email</string>
+    <string name="signup_password">Mật khẩu</string>
+    <string name="signup_confirm_password">Xác nhận mật khẩu</string>
+    <string name="signup_signup">Đăng ký</string>
+
+    <string name="aboutus_title">Giới thiệu</string>
+
+    <string name="setting_title">Cài đặt</string>
+
+    <string name="changepassword_title">Đổi mật khẩu</string>
+
+
+    <string name="navication_drawer_open">Open navication drawer</string>
+    <string name="navication_drawer_close">close navication drawer</string>
+
+    <string name="english">Tiếng Anh</string>
+    <string name="languge">Ngôn ngữ</string>
+    <string name="vietnamese">Tiếng Việt</string>
+    <string name="id_card">Mã thẻ</string>
+    <string name="password_card">Mật khẩu thẻ</string>
+    <string name="local">Vị trí:</string>
+    <string name="search">Xem</string>
+    <string name="form">Phiếu đăng ký</string>
+    <string name="add">Thêm</string>
+    <string name="ID_list">Danh sách mã thẻ</string>
+    <string name="Donthaveanaccount">Don\'t have an account?</string>
+    <string name="Create">Create</string>
+    <string name="Signin">Sign In</string>
+    <string name="Confirmpassword">Confirm password</string>
+    <string name="New_password">New password</string>
+    <string name="change_pasword">Change Pasword</string>
+    <string name="user_name">User name</string>
+    <string name="id">ID</string>
+    <string name="name">Name:</string>
+    <string name="HistoryGate">History Gate</string>
+    <string name="mathe">MÃ THẺ</string>
+    <string name="id_card_form">ID CARD</string>
+</resources>

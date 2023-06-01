@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<!--    <com.google.android.material.appbar.AppBarLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">-->
+
+<!--        <androidx.appcompat.widget.Toolbar-->
+<!--            android:id="@+id/toolbarl_setting"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="?attr/actionBarSize"-->
+<!--            android:background="#FF6200EE"-->
+<!--            app:title="@string/setting_title"-->
+<!--            app:layout_scrollFlags="scroll"-->
+<!--            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>-->
+<!--    </com.google.android.material.appbar.AppBarLayout>-->
+
+    <include layout="@layout/custom_bottom_sheet_main"/>
+
+    <include layout="@layout/custom_button_sheet_language"/>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
